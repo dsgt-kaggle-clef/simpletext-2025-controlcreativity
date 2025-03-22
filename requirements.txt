@@ -13,3 +13,7 @@ jupyterlab
 ruff
 pre-commit
 pytest
+
+
+# additional packages 
+datasets
