@@ -165,3 +165,8 @@ cython_debug/
 #.idea/
 
 *.out
+
+
+/notebooks/summac_conv_vitc_sent_perc_e.bin
+
+/data
